@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gLanScan
+Exec=/usr/bin/glanscan
+Comment=nmap GUI Client
+Terminal=false
+Icon=/usr/share/icons/hicolor/scalable/apps/glanscan.svg
+Type=Application
